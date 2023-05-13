@@ -1,6 +1,6 @@
 {
   "name": "b64ab",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert between Base-64 Strings and ArrayBuffer Objects. Simple. Isomorphic. Light-weight.",
   "main": "b64ab.js",
   "files": [
